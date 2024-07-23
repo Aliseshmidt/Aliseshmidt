@@ -8,7 +8,7 @@
 </br>
 
 ## <a href="https://leetcode.com/u/Alise_shmidt/" target="_blank">My Leetcode</a> Stats
-
+<p>
 ![](https://leetcard.jacoblin.cool/Alise_shmidt?ext=heatmap)
 
 <!--
