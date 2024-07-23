@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
 <h1></h1>
-<h3>I'm BMSTU student and CS specialist</h3>
 
 ## My GitHub Stats
 <br>
