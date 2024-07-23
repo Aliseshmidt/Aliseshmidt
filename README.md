@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
-
 <h1></h1>
-
-<h3>Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3>I'm student at BMSTU and computer science enjoyer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
