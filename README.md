@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta" target="_blank">Daniil</a> 
+<h1><a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta" target="_blank"></a></h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
 <h3>I'm BMSTU student and computer science enjoyer</h3>
