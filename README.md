@@ -7,7 +7,7 @@
   <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Alise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </br>
 
-## My Leetcode Stats
+## My <a href="https://daniilshat.ru/" target="_blank">Daniil</a> Stats
 
 ![](https://leetcard.jacoblin.cool/Alise_shmidt?ext=heatmap)
 
