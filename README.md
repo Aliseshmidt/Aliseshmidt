@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFC0CB&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
 <h1></h1>
 
 ## My GitHub Stats
 <br>
-  <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Alise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliseshmidt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=FFC0CB" /></a>
-  <a href="https://github.com/aliseshmidt/github-readme-stats?color=%FFC0CB"><img alt="Alise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFC0CB" /></a>
+  <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Alise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliseshmidt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Alise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </br>
 
 <!--
