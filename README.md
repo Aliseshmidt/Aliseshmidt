@@ -1,5 +1,8 @@
+<h1 align="center">Hi there, I'm <a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta" target="_blank">Daniil</a> 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
 <h3>I'm BMSTU student and computer science enjoyer</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aliseshmidt/Aliseshmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
