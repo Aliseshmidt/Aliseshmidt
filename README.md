@@ -2,9 +2,9 @@
 <h1></h1>
 <h3>I'm BMSTU student and CS specialist</h3>
 
-## 📊 My Github Stats
+## 📊 My Stats
 
-<a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Aliseshmidt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aliseshmidt/Aliseshmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
