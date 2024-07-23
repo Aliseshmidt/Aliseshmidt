@@ -8,9 +8,9 @@
 </br>
 
 ## My Leetcode Stats
-<br>
+
 ![](https://leetcard.jacoblin.cool/Alise_shmidt?ext=heatmap)
-</br>
+
 <!--
 **Aliseshmidt/Aliseshmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
