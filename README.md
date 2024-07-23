@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
-<h3>Computer science student, IT news writer from Russia 🇷🇺</h3>
 <h1> </h1>
 <h3>Computer science student, IT news writer from Russia 🇷🇺</h3>
 
