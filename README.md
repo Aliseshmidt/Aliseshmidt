@@ -2,6 +2,7 @@
 <h1></h1>
 <h3>I'm BMSTU student and CS specialist</h3>
 
+## 📊 My Github Stats
 
 <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Aliseshmidt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <!--
