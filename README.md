@@ -7,6 +7,10 @@
   <a href="https://github.com/aliseshmidt/github-readme-stats"><img alt="Alise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseshmidt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </br>
 
+## My Leetcode Stats
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alise_shmidt&theme=dark)](https://github.com/aliseshmidt/leetcode-stats)
+
 <!--
 **Aliseshmidt/Aliseshmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
