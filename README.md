@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Elizaveta)](https://git.io/typing-svg)
 <h3>Computer science student, IT news writer from Russia 🇷🇺</h3>
-<h1><a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1>
 <img/></h1>
 <h3>Computer science student, IT news writer from Russia 🇷🇺</h3>
 
