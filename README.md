@@ -9,7 +9,7 @@
 
 ## My Leetcode Stats
 
-[![Alise_shmidt's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alise_shmidt&theme=dark)](https://github.com/aliseshmidt/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **Aliseshmidt/Aliseshmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
