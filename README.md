@@ -18,9 +18,9 @@
 
 
 ## About me
-- 👩‍🎓 BMSTU student
+- 👩‍🎓 BMSTU Bachelor, HSE Master
 - 🌱 I’m currently learning ML and AI
-- 💼 Working in the coordination center under the government of the Russian Federation
+- 💼 Working in SBER
 - 📫 How to reach me: <a href="mailto:chagelova84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&&logo=gmail&logoColor=white"/></a> <a href="http://t.me/Alise_shmidt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&&logo=telegram&logoColor=white"/></a>
 
 ## Languages and Tools:
